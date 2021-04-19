@@ -1,8 +1,8 @@
 ### Heyo 🙃
 
-I'm Quinn, a Software Engineer and Systems Administrator from the midwest USA. (The reason your SLA can't be 100%)
-
 [![Sword's GitHub stats](https://github-readme-stats.vercel.app/api?username=The1Sword&show_icons=true&include_all_commits=true&theme=synthwave&show_icons=true)](https://github.com/The1Sword)
+
+I'm Quinn, a Software Engineer and Systems Administrator from the midwest USA. (The reason your SLA can't be 100%)
 
  - 🛠️ I build a lot of small and random things, many of which are APIs or Discord Bots, most of which are just for fun.
  - 🤖 I've made the Discord Bot Janet, whom you can invite [here](https://go.sword.wtf/invjanet)!
