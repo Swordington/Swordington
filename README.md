@@ -7,5 +7,5 @@
 I'm Quinn, a Software Engineer and Systems Administrator from the midwest USA. (The reason your SLA can't be 100%)
 
  - 🛠️ I build a lot of small and random things, many of which are APIs or Discord Bots, most of which are just for fun.
- - 🏢 I'm currently the Owner & Lead Director [**@bigbrothergroup**](https://github.com/bigbrothergroup)
+ - 🏢 I'm the CEO & Co-Owner [**@bigbrothergroup**](https://github.com/bigbrothergroup)
  - 📧 To get in touch, shoot me an email or a message on Twitter! (You can find these in the sidebar of my profile :)
